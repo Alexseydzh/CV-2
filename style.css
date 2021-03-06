@@ -1,0 +1,64 @@
+body{
+  background-color: #e0e0e0;
+  font-family: 'Dancing Script', cursive;
+}
+
+/* NavBar */
+.navbar{
+  padding: 20px 0;
+}
+
+.nav-item{
+  font-size: 20px;
+}
+
+
+/* Intro */
+.intro{
+  padding: 15.6rem 0;
+  text-align: center;
+}
+.intro-title{
+  font-size: 70px;
+}
+
+
+/* AboutMe */
+.info-items{
+  padding: 200px 0;
+  text-align: center;
+}
+
+.icons{
+  color: black;
+}
+
+
+/* Projects */
+
+.carousel{
+  background-color: #e0e0e0;
+  height: 500px;
+  text-align: center;
+}
+
+.carousel-img{
+  padding: 100px 0 10px;
+  height: 200px;
+}
+
+.carousel-link{
+  color: #333;
+  text-decoration: none;
+}
+
+/* Contacts */
+.contacts{
+  padding: 5rem;
+  text-align: center;
+}
+
+.footer-icons{
+  color: #333;
+  margin: 1rem;
+}
